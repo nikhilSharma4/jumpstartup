@@ -14,7 +14,7 @@ public class JumpstartupjavaApplication {
 	public static void main(String[] args) {
 		logger.info("Starting JumpstartupjavaApplication...");
 		SpringApplication.run(JumpstartupjavaApplication.class, args);
-		logger.info("JumpstartupjavaApplication started.");
+		logger.info("JumpstartupjavaApplication started and running.")
 	}
 
 }
