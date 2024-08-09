@@ -1,0 +1,84 @@
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('3779e789-f461-4fde-aac2-2c73a247ebe0', 'nsharm', 'Nikhil', 'Sharma', 'n22sharm@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'freelancer');
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('ab7d810b-88d8-4471-9541-6e4e08307730', 'akumar', 'Aman', 'Kumar', 'akumar@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'freelancer');
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('b3febd93-3ce4-477e-bfa5-82298817e910', 'sshinde', 'Shreya', 'Shinde', 'sshinde@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'freelancer');
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('95c5a9d2-499f-4401-86a8-e73691a07b94', 'hgrover', 'Harsh', 'Grover', 'hrogver@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'freelancer');
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('8cd808f8-c5f0-4b15-84e5-783ee892ae5d', 'uchoudary', 'Ujjwal', 'Choudary', 'uchoudary@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'freelancer');
+
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('294bc3d4-74c7-4187-9896-7c50dfb32ba1', 'mraheja', 'Manan', 'Raheja', 'mraheja@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'investor');
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('dd6b3ecb-0cb7-4458-91cd-406f6e4f2878', 'dkhanna', 'Dheeraj', 'Khanna', 'dkhanna@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'investor');
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('66495d10-4337-4f03-9a5d-954ef2b835ae', 'udas', 'Ursula', 'Das', 'udas@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'investor');
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('1dcd41d7-261e-4683-ae7c-60e35685db88', 'mcrowly', 'Mark', 'Crowly', 'mcrowly@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'investor');
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('169ac502-2669-4969-ae5d-1a848422b799', 'spatel', 'srijith', 'patel', 'spatel@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'investor');
+--
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('3d87f54b-2ff3-482a-b654-1ba4a7c5fd5a', 'rsharm', 'Rakshit', 'Sharma', 'rsharm@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'entrepreneur');
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('99ee55a3-8ef8-40a5-9f0b-3379b201e405', 'nkaur', 'Navneet', 'Kaur', 'nkaur@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'entrepreneur');
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('09a5fa0d-b7fe-47df-bf6b-3a1f1393904d', 'nkapoor', 'Nishtha', 'Kapoor', 'nkapoor@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'entrepreneur');
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('17bc47e8-1fea-4748-98d8-fcda971b39f2', 'mdhind', 'Manav', 'Dhindsa', 'mdhind@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'entrepreneur');
+INSERT INTO MYUSER (uuid, username, first_name, last_name, email, hashpass, type) values ('1f8b05a4-334f-4c13-a3b9-64be3e23a482', 'rdesai', 'Riya', 'Desai', 'rdesai@uwaterloo.ca', '$2a$10$moAiFqtb4C2zSSvnGPD23O06unxpL00O8ZPishC7T2peOtrVqzO3y', 'entrepreneur');
+
+INSERT INTO ENTREPRENEUR (uuid, phone_number, domain, email_id, linkedin_link) values ('3d87f54b-2ff3-482a-b654-1ba4a7c5fd5a', '1234567890', 'Software Development, Finance', 'rsharm@uwaterloo.ca', 'https://www.linkedin.com/in/rsharm/');
+INSERT INTO ENTREPRENEUR (uuid, phone_number, Domain, email_id, Linkedin_link) values ('99ee55a3-8ef8-40a5-9f0b-3379b201e405', '1234567890', 'Beauty, Fashion', 'nkaur@uwaterloo.ca','https://www.linkedin.com/in/nkaur/');
+INSERT INTO ENTREPRENEUR (uuid, phone_number, Domain, email_id, Linkedin_link) values ('09a5fa0d-b7fe-47df-bf6b-3a1f1393904d', '1234567890', 'Machine Learning, Artificial Intelligence, Neural Networks', 'nkapoor@uwaterloo.ca','https://www.linkedin.com/in/nkapoor/');
+INSERT INTO ENTREPRENEUR (uuid, phone_number, Domain, email_id, Linkedin_link) values ('17bc47e8-1fea-4748-98d8-fcda971b39f2', '1234567890', 'Software Development, Sports', 'mdhind@uwaterloo.ca','https://www.linkedin.com/in/mdhind/');
+INSERT INTO ENTREPRENEUR (uuid, phone_number, Domain, email_id, Linkedin_link) values ('1f8b05a4-334f-4c13-a3b9-64be3e23a482', '1234567890', 'Sports, Gym', 'rdesai@uwaterloo.ca','https://www.linkedin.com/in/rdesai/');
+--
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('3779e789-f461-4fde-aac2-2c73a247ebe0', 'University of Waterloo', 'MEng', 'Electrical and Computer Engineering', '2023');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('ab7d810b-88d8-4471-9541-6e4e08307730', 'Thapar University', 'BE', 'Computer Science', '2019');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('b3febd93-3ce4-477e-bfa5-82298817e910', 'Father Angus Institute of Management', 'MBA', 'Bussiness Analytics', '2022');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('95c5a9d2-499f-4401-86a8-e73691a07b94', 'Vellore Institute of Technology', 'BTech', 'Computer Science', '2020');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('8cd808f8-c5f0-4b15-84e5-783ee892ae5d', 'SRM', 'BTech', 'Electronics Engineering', '2019');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('294bc3d4-74c7-4187-9896-7c50dfb32ba1', 'Harvard University', 'BTech', 'Computer Science', '2010');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('dd6b3ecb-0cb7-4458-91cd-406f6e4f2878', 'Stanford University', 'MEng', 'Electrical Engineering', '2009');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('66495d10-4337-4f03-9a5d-954ef2b835ae', 'MIT', 'MBA', 'Bussiness Management', '2007');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('1dcd41d7-261e-4683-ae7c-60e35685db88', 'Lovely Professional University', 'PHD', 'Machine Learning', '2010');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('169ac502-2669-4969-ae5d-1a848422b799', 'University of Waterloo', 'PHD', 'Mechanical', '2014');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('3d87f54b-2ff3-482a-b654-1ba4a7c5fd5a', 'University of Waterloo', 'MEng', 'Electrical and Computer Engineering', '2023');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('99ee55a3-8ef8-40a5-9f0b-3379b201e405', 'Harvard University', 'BEng', 'Computer Science', '2022');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('09a5fa0d-b7fe-47df-bf6b-3a1f1393904d', 'University of Waterloo', 'BEng', 'Electrical and Computer Engineering', '2021');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('17bc47e8-1fea-4748-98d8-fcda971b39f2', 'Harvard University', 'MASC', 'Computer Science', '2019');
+INSERT INTO EDUCATION (uuid, institution, degree, major, year_of_completion) values ('1f8b05a4-334f-4c13-a3b9-64be3e23a482', 'University of Waterloo', 'MMATH', 'Computer Science', '2022');
+--
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('3779e789-f461-4fde-aac2-2c73a247ebe0', '0');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('ab7d810b-88d8-4471-9541-6e4e08307730', '4');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('b3febd93-3ce4-477e-bfa5-82298817e910', '1');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('95c5a9d2-499f-4401-86a8-e73691a07b94', '3');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('8cd808f8-c5f0-4b15-84e5-783ee892ae5d', '4');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('294bc3d4-74c7-4187-9896-7c50dfb32ba1', '13');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('dd6b3ecb-0cb7-4458-91cd-406f6e4f2878', '16');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('66495d10-4337-4f03-9a5d-954ef2b835ae', '14');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('1dcd41d7-261e-4683-ae7c-60e35685db88', '16');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('169ac502-2669-4969-ae5d-1a848422b799', '9');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('3d87f54b-2ff3-482a-b654-1ba4a7c5fd5a', '0');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('99ee55a3-8ef8-40a5-9f0b-3379b201e405', '1');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('09a5fa0d-b7fe-47df-bf6b-3a1f1393904d', '2');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('17bc47e8-1fea-4748-98d8-fcda971b39f2', '4');
+INSERT INTO WORK_EXPERIENCE (uuid, work_experience) values ('1f8b05a4-334f-4c13-a3b9-64be3e23a482', '1');
+--
+INSERT INTO COMPANY (uuid, company_name, is_registered, stakeholder, company_size, funding_status, equity_offered, assets, open_to_negotiations, profits_in_last_FY, pitch) values ('3d87f54b-2ff3-482a-b654-1ba4a7c5fd5a', 'Acme Inc.', 'true', 'Rakshit', 'Small', 'Seed', '10%', '$100,000', 'true', '$10,000', 'We make widgets for the masses.');
+INSERT INTO COMPANY (uuid, company_name, is_registered, stakeholder, company_size, funding_status, equity_offered, assets, open_to_negotiations, profits_in_last_FY, pitch) values ('99ee55a3-8ef8-40a5-9f0b-3379b201e405', 'XYZ Corp.', 'false', 'Navneet', 'Large', 'Series A', '15%', '$5,000,000', 'false', '$500,000', 'We provide cloud-based solutions for businesses.');
+INSERT INTO COMPANY (uuid, company_name, is_registered, stakeholder, company_size, funding_status, equity_offered, assets, open_to_negotiations, profits_in_last_FY, pitch) values ('09a5fa0d-b7fe-47df-bf6b-3a1f1393904d', 'Beta LLC', 'true', 'Nishtha', 'Medium', 'Series B', '20%', '$1,000,000', 'true', '$250,000', 'We specialize in custom software development.');
+INSERT INTO COMPANY (uuid, company_name, is_registered, stakeholder, company_size, funding_status, equity_offered, assets, open_to_negotiations, profits_in_last_FY, pitch) values ('17bc47e8-1fea-4748-98d8-fcda971b39f2', 'Gamma Industries', 'true', 'Manav', 'Large', 'Series C', '25%', '$10,000,000', 'false', '$1,000,000', 'We manufacture cutting-edge medical equipment.');
+INSERT INTO COMPANY (uuid, company_name, is_registered, stakeholder, company_size, funding_status, equity_offered, assets, open_to_negotiations, profits_in_last_FY, pitch) values ('1f8b05a4-334f-4c13-a3b9-64be3e23a482', 'Kuch Bhi Likh de', 'true', 'Shreya Shinde', 'Large', 'Public', '25%', '$100,000', 'false', '$50,000', 'We Make the difference by doing nothing');
+
+INSERT INTO FREELANCER (uuid, phone_number, skills, email_id, linkedin_link) values ('3779e789-f461-4fde-aac2-2c73a247ebe0', '6479802727', 'Java,python,SQL', 'n22sharm@uwaterloo.ca','https://www.linkedin.com/in/n22sharm/');
+INSERT INTO FREELANCER (uuid, phone_number, skills, email_id, linkedin_link) values ('ab7d810b-88d8-4471-9541-6e4e08307730', '6475802727', 'Machine Learning', 'akumar@uwaterloo.ca','https://www.linkedin.com/in/akumar/');
+INSERT INTO FREELANCER (uuid, phone_number, skills, email_id, linkedin_link) values ('b3febd93-3ce4-477e-bfa5-82298817e910', '6479802721', 'Electrical, Power Systems', 'sshinde@uwaterloo.ca','https://www.linkedin.com/in/sshinde/');
+INSERT INTO FREELANCER (uuid, phone_number, skills, email_id, linkedin_link) values ('95c5a9d2-499f-4401-86a8-e73691a07b94', '6470982727', 'Full Stack', 'hrogver@uwaterloo.ca','https://www.linkedin.com/in/hrogver/');
+INSERT INTO FREELANCER (uuid, phone_number, skills, email_id, linkedin_link) values ('8cd808f8-c5f0-4b15-84e5-783ee892ae5d', '6479800000', 'Project Management', 'uchoudary@uwaterloo.ca','https://www.linkedin.com/in/uchoudary/');
+
+INSERT INTO INVESTOR (uuid, phone_number, domain, funding_available, brands_built, email_id, linkedin_link) values ('294bc3d4-74c7-4187-9896-7c50dfb32ba1', '6479800200', 'Computer Science', 'true', '3', 'mraheja@uwaterloo.ca','https://www.linkedin.com/in/mraheja/');
+INSERT INTO INVESTOR (uuid, phone_number, domain, funding_available, brands_built, email_id, linkedin_link) values ('dd6b3ecb-0cb7-4458-91cd-406f6e4f2878', '6479800010', 'Software Development', 'true', '3', 'dkhanna@uwaterloo.ca','https://www.linkedin.com/in/dkhanna/');
+INSERT INTO INVESTOR (uuid, phone_number, domain, funding_available, brands_built, email_id, linkedin_link) values ('66495d10-4337-4f03-9a5d-954ef2b835ae', '6479800023', 'Machine Learning', 'true', '4', 'udas@uwaterloo.ca','https://www.linkedin.com/in/udas/');
+INSERT INTO INVESTOR (uuid, phone_number, domain, funding_available, brands_built, email_id, linkedin_link) values ('1dcd41d7-261e-4683-ae7c-60e35685db88', '7479800006', 'Computer Vision', 'true', '2', 'mcrowly@uwaterloo.ca','https://www.linkedin.com/in/mcrowly/');
+INSERT INTO INVESTOR (uuid, phone_number, domain, funding_available, brands_built, email_id, linkedin_link) values ('169ac502-2669-4969-ae5d-1a848422b799', '6479800761', 'Bussiness Management', 'true', '1', 'spatel@uwaterloo.ca','https://www.linkedin.com/in/spatel/');
+
+INSERT INTO JOBS (job_uuid, entrepreneur_uuid, description, is_active, number_of_openings, skills, pay_estimate, type, posting_date) values ('1', '3d87f54b-2ff3-482a-b654-1ba4a7c5fd5a', 'Software Engineer', 'true', '1', 'Java, Python, C++, Unity', '$100,000', 'full-time', '2023-04-01');
+INSERT INTO JOBS (job_uuid, entrepreneur_uuid, description, is_active, number_of_openings, skills, pay_estimate, type, posting_date) values ('2', '3d87f54b-2ff3-482a-b654-1ba4a7c5fd5a', 'Machine Learning Engineer', 'true', '2', 'Machine Learning, algorithms', '$75,000', 'full-time', '2023-04-01');
+INSERT INTO JOBS (job_uuid, entrepreneur_uuid, description, is_active, number_of_openings, skills, pay_estimate, type, posting_date) values ('3', '99ee55a3-8ef8-40a5-9f0b-3379b201e405', 'Software Engineer', 'true', '1', 'Java, Python, C++, Unity', '$100,000', 'full-time', '2023-04-01');
+INSERT INTO JOBS (job_uuid, entrepreneur_uuid, description, is_active, number_of_openings, skills, pay_estimate, type, posting_date) values ('4', '99ee55a3-8ef8-40a5-9f0b-3379b201e405', 'Project Manager', 'true', '1', 'Deep Learning, Machine Learning', '$50,000', 'full-time', '2023-04-01');
+INSERT INTO JOBS (job_uuid, entrepreneur_uuid, description, is_active, number_of_openings, skills, pay_estimate, type, posting_date) values ('5', '09a5fa0d-b7fe-47df-bf6b-3a1f1393904d', 'Project Manager', 'true', '10', 'Communication, Management', '$100,000', 'part-time', '2023-04-01');
+INSERT INTO JOBS (job_uuid, entrepreneur_uuid, description, is_active, number_of_openings, skills, pay_estimate, type, posting_date) values ('6', '09a5fa0d-b7fe-47df-bf6b-3a1f1393904d', 'Software Engineer', 'true', '2', 'Java, Python, C++, Unity', '$69,000', 'part-time', '2023-04-01');
+INSERT INTO JOBS (job_uuid, entrepreneur_uuid, description, is_active, number_of_openings, skills, pay_estimate, type, posting_date) values ('7', '17bc47e8-1fea-4748-98d8-fcda971b39f2', 'Project Manager', 'true', '4', 'Communication, Management', '$100,000', 'part-time', '2023-04-01');
+INSERT INTO JOBS (job_uuid, entrepreneur_uuid, description, is_active, number_of_openings, skills, pay_estimate, type, posting_date) values ('8', '17bc47e8-1fea-4748-98d8-fcda971b39f2', 'Machine Learning Engineer', 'true', '1', 'Python, tensorflow', '$75,000', 'part-time', '2023-04-01');
+INSERT INTO JOBS (job_uuid, entrepreneur_uuid, description, is_active, number_of_openings, skills, pay_estimate, type, posting_date) values ('9', '1f8b05a4-334f-4c13-a3b9-64be3e23a482', 'Software Engineer', 'true', '10', 'Java, Python, C++, Unity', '$100,000', 'contract', '2023-04-01');
+INSERT INTO JOBS (job_uuid, entrepreneur_uuid, description, is_active, number_of_openings, skills, pay_estimate, type, posting_date) values ('10', '1f8b05a4-334f-4c13-a3b9-64be3e23a482', 'Machine Learning Engineer', 'false', '5', 'Autonomous Driving', '$110,000', 'contract', '2023-04-01');
